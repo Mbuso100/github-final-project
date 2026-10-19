@@ -1,55 +1,38 @@
 
 # Contributing to Simple Interest Calculator
 
-Thank you for your interest in contributing to the Simple Interest Calculator project!
-
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and new ideas are welcome.
+Thank you for your interest in contributing to this project.
 
 ## How to Contribute
 
 1. Fork this repository to your GitHub account.
-2. Clone your fork to your local machine.
+2. Clone your fork to your local computer.
 3. Create a new branch for your changes.
-4. Make your changes and test them.
-5. Commit your changes with a clear commit message.
-6. Push your branch to your GitHub repository.
-7. Open a pull request describing your changes.
+4. Make your changes and test the calculator.
+5. Commit your changes with a descriptive message.
+6. Push your branch to your fork.
+7. Open a pull request explaining your changes.
 
-## Reporting Bugs
+## Reporting Issues
 
-If you discover a bug, please open a GitHub issue and include:
+If you discover a bug, open a GitHub issue describing the problem, the steps to reproduce it, and the expected behavior.
 
-- A clear description of the problem.
-- Steps to reproduce the issue.
-- Expected and actual behavior.
-- Relevant error messages, if applicable.
+## Suggesting Improvements
 
-## Bug Fixes
+You are welcome to suggest improvements through GitHub issues or pull requests.
 
-Bug fixes are welcome. Please ensure that your changes resolve the reported issue without introducing new problems.
+## Coding Guidelines
 
-## Documentation Improvements
-
-Contributions that improve the README, usage instructions, examples, and other documentation are encouraged.
-
-## Enhancements
-
-Suggestions and improvements that make the calculator more reliable, accurate, and user-friendly are welcome.
-
-## New Ideas
-
-If you have an idea for a new feature, open a GitHub issue to discuss it before implementing major changes.
-
-## Code Guidelines
-
-- Write clear and readable Bash code.
+- Keep the Bash script simple and readable.
 - Use meaningful variable names.
-- Validate user input where appropriate.
-- Test changes before submitting a pull request.
-- Keep contributions focused and well documented.
+- Test changes before submitting them.
+- Avoid introducing unnecessary dependencies.
 
 ## Code of Conduct
 
-All contributors are expected to follow the guidelines in `CODE_OF_CONDUCT.md`.
+All contributors should follow the project's [Code of Conduct](CODE_OF_CONDUCT.md).
 
-Thank you for helping improve this project!
+## License
+
+By contributing, you agree that your contributions will be licensed under the Apache License 2.0.
+
